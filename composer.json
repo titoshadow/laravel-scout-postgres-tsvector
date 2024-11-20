@@ -1,5 +1,5 @@
 {
-    "name": "devnoiseconsulting/laravel-scout-postgres-tsvector",
+    "name": "titoshadow/laravel-scout-postgres-tsvector",
     "description": "PostgreSQL Full Text Search Driver for Laravel Scout",
     "keywords": [
         "laravel",
@@ -9,10 +9,10 @@
         "full text search",
         "FTS"
     ],
-    "homepage": "https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector",
+    "homepage": "https://github.com/titoshadow/laravel-scout-postgres-tsvector",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector/issues",
+        "issues": "https://github.com/titoshadow/laravel-scout-postgres-tsvectorissues",
         "source": "https://github.com/devNoiseConsulting/laravel-scout-postgres-tsvector"
     },
     "authors": [
@@ -29,9 +29,9 @@
     ],
     "require": {
         "php": "^8.0|^8.1|^8.2",
-        "illuminate/contracts": "^9|^10",
-        "illuminate/database": "^9|^10",
-        "illuminate/support": "^9|^10",
+        "illuminate/contracts": "^9|^10|^11",
+        "illuminate/database": "^9|^10|^11",
+        "illuminate/support": "^9|^10|^11",
         "laravel/scout": "^9|^10"
     },
     "require-dev": {
